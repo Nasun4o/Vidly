@@ -158,3 +158,9 @@ C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
 C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Web.Http.dll
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Web.Http.xml
+C:\Users\PC-PC\Desktop\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
